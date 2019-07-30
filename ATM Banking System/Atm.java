@@ -225,7 +225,7 @@ public void Atmmain()
                                      " 	'SYMBIOSIS COMPUTER SYSTEMS INC.\n"+
                                      
                                      "	----------------------------------------------\n"+
-                                     "       	Producer:  Parthav & Priyanka";
+                                     "       	Producer:  Ashley";
 
                          //-----set up textarea----------------
                          textarea = new JTextArea(sttr);
@@ -945,7 +945,7 @@ public void Atmmain()
 						String show11= "\n\n\n\n\n 	Dear User  "+
 					 	"\n	    Thank You!!  "+
 					 	"\n	    Symbiosis Computers Inc Ltd:"+
-						 "\n\n 	      @ copywrites Parthav,Priyanka";
+						 "\n\n 	      @ copywrites Ashley 2019";
 						JTextArea bal11= new JTextArea(show11);
        	    			bal11.setBackground(c1);
        	   				 bal11.setEditable(false);
